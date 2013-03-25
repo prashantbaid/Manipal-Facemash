@@ -1,0 +1,1 @@
+Manipal's version of Facemash. Uses pictures from websismanipal portal. Currently has more than 5000 pictures. Uses php as the backend and data is stored in an xml file. Uses Elo's Rating algoritm to rate pictures, the same one used in the original facemash.
